@@ -1,6 +1,7 @@
 
 Teste sem refatoração  
-!(img/print-teste-1.png)
+![Foto do teste 1](img/print-teste-1.png)
 
 Teste refatorado  
-!(img/print-teste-2.png)
+![Foto do teste 2](img/print-teste-2.png)
+
